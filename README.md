@@ -27,10 +27,6 @@ La web presenta una experiencia visual e interactiva que recorre su historia, tr
 
 Abrir el archivo `index.html` en cualquier navegador moderno.
 
-## Nota
-
-El archivo `joe.rar` es solo una copia del proyecto y no es necesario subirlo.
-
 ## Créditos
 
 Imágenes con derechos de autor de Germán Garmendia y YouTube. Imagen del vinilo por [viaductk en Pixabay](https://pixabay.com/es/users/viaductk-34217157/).
